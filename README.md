@@ -2,8 +2,6 @@
 
 A modern, clean credit card checkout form designed using HTML and CSS. This form includes essential fields such as the credit card number, expiration date, security code, and cardholder name. The layout is responsive and optimized for usability, making it suitable for a variety of e-commerce applications or any web project requiring a checkout form.
 
-![Checkout Form Screenshot](path_to_screenshot.png)
-
 ## Features
 
 - **Responsive Layout**: Adapts to various screen sizes.
